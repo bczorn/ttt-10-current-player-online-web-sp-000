@@ -1,8 +1,6 @@
-def turn_count
-  counter = 0
-  if 
-    counter += 1
-  end
+
+  board.each do | count |
+  count += 1
 end
 
 def current_player
